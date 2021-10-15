@@ -2,7 +2,7 @@
 
 Hello,
 
-The given tasks have been implemented using R (R studio). 
+The given tasks have been executed using R (R studio). 
 
 Code Files :
 1. "script.R" - contains code used to complete the task with detailed explanation and comments.
