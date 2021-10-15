@@ -1,6 +1,6 @@
 ---
 title: "Assignment OdomLab"
-output: html_notebook
+output: rmarkdown::github_document
 ---
 ## Given Task:
 1. Extract the expression values for all genes that are part of the GO-term oxidative phosporylation and store it as "expression_oxphos.csv".
